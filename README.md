@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lukas Jirikovsky</h1>
-<h3 align="center">A student(IT) from Czech Republic. Currently, i am learning Java.</h3>
+<h3 align="center">A student(IT) from Czech Republic. Currently, i am learning Python</h3>
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Java, C#**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **stevenholse77@gmail.com**
+- 📫 How to reach me **lukas.jirikovsky.cz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
